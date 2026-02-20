@@ -1,1 +1,1 @@
-## Gatcha probability simulator for Arknight Endfield. ##
+### Gatcha probability simulator for Arknight Endfield.
